@@ -14,7 +14,7 @@ function Header() {
         >
           <li>
             <a
-              href="https://github.com/rtolstovn/react-movies"
+              href="https://github.com/rtolstovn/react-shop/tree/master"
               target="_blank"
               rel="noreferrer"
             >

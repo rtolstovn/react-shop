@@ -13,7 +13,7 @@ function Alert(props) {
   }, [name]);
 
   return (
-    <div id="toast">
+    <div id="toast-container">
       <div className="toast">{name} добвлен в корзину</div>
     </div>
   );
